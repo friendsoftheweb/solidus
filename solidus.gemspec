@@ -25,4 +25,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'solidus_backend', s.version
   s.add_dependency 'solidus_frontend', s.version
   s.add_dependency 'solidus_sample', s.version
+  s.add_dependency 'deface'
+  s.add_dependency 'solidus_auth_devise'
 end
