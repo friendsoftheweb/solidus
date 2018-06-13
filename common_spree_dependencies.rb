@@ -17,6 +17,8 @@ end
 
 gem 'coffee-rails'
 gem 'sass-rails'
+gem 'deface'
+gem 'solidus_auth_devise'
 
 group :test do
   gem 'capybara', '~> 2.7'
